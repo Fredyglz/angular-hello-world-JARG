@@ -1,6 +1,6 @@
-# MyApp
+# Hello World
 
-Proyecto HelloWorld en GitHub Pages desarrollado en el curso de Angular: De cero a experto (Angular 10+)
+Proyecto HelloWorld en GitHub Pages desarrollado en el curso de Angular: De cero a experto (Angular 10+)  
 Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
 ## Development server
